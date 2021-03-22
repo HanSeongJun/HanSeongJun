@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Han%20SeongJun&fontSize=80&&fontColor=181717&animation=fadeIn&fontAlign=50)
 
 <h3 align='center'>Hi there 👋 </h3>
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeongJun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeongJun)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSeongJun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
 <h3 align='center'>🔨 Stack 🔧</h3>
+
 <p align='center'>Techs that I've used at least once</p>
+
 <p align='center'>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -27,7 +31,9 @@
 </p>
 
 <br>
+
 <h3 align='center'>🍑 ME🍑</h3>
+
 <p align='center'>
     <a href="https://velog.io/@gkstjdwns2" target="_blank">
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
@@ -36,6 +42,7 @@
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </p>
+
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=80&animation=fadeIn&fontAlignY=50&reversal=true)

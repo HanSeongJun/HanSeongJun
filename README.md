@@ -26,8 +26,11 @@
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
 </p>
 <br>
-<h3 align='center'>🍑 ME 🍑</h3>
-
+<h3 align='center'>🍑 ME🍑</h3>
+<p align='center'>
+    <a href="https://velog.io/@gkstjdwns2" target="_blank">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+    </a>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=80&animation=fadeIn&fontAlignY=38&reversal=true)

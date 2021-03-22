@@ -31,7 +31,4 @@
     </a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Han%20SeongJun&fontSize=80&&fontColor=181717&animation=fadeIn&fontAlign=50)
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=80&animation=fadeIn&fontAlignY=50&reversal=true)

@@ -1,6 +1,4 @@
-<p align='center'>
-    ![header](https://capsule-render.vercel.app/api?    type=waving&color=87cefa&height=200&section=header&text=Han%20SeongJun&fontSize=80&&fontColor=181717&animation=fadeIn&fontAlignY=38&)
-</p>
+![header](https://capsule-render.vercel.app/api?    type=waving&color=87cefa&height=200&section=header&text=Han%20SeongJun&fontSize=80&&fontColor=181717&animation=fadeIn&fontAlignY=38&align=center)
 
 <p align='center'>
     <a href="https://github.com/anuraghazra/github-readme-stats/theme = radical">

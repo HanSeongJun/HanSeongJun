@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Han%20SeongJun&fontSize=80&&fontColor=181717&animation=fadeIn&fontAlign=50)
 
 <h3 align='center'>Hi there 👋 </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeongJun)](https://github.com/HanSeongJun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSeongJun&layout=compact)](https://github.com/HanSeongJun/github-readme-stats)
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeongJun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSeongJun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 <h3 align='center'>🔨 Stack 🔧</h3>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>

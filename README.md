@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
 </p>
+<br>
+<h3 align='center'>🍑 ME 🍑</h3>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=80&animation=fadeIn&fontAlignY=38&reversal=true)

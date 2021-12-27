@@ -43,9 +43,6 @@
 <h3 align='center'>🍑 ME🍑</h3>
 
 <p align='center'>
-    <a href="https://velog.io/@gkstjdwns2" target="_blank">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-    </a>
     <a href="mailto:hsh4509@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>

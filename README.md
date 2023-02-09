@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align='center'>🍑 ME🍑</h3>
+<h3 align='center'>✋ ME</h3>
 
 <p align='center'>
     <a href="mailto:hsh4509@gmail.com" target="_blank">

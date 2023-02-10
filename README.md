@@ -49,6 +49,7 @@
     <a href="mailto:hsh4509@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
+    <img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/>
 </p>
 
 <br>

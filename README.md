@@ -49,7 +49,7 @@
     <a href="mailto:hsh4509@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MyTechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </p>
 
 <br>

@@ -47,7 +47,7 @@
 
 <p align='center'>
     <a href="mailto:hsh4509@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/hsh4509@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   <a href="https://zzoons.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/MyTechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/>

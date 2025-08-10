@@ -17,8 +17,12 @@
 <br>
 
 <h3 align='center'>🔨 Tech Stack 🔨 </h3>
-<p align='center'>Used as the Main 👇👇</p>
+<p align='center'>저는 이 기술을 메인으로 사용해요! 👇👇</p>
 <p align='center'>
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
